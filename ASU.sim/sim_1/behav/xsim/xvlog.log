@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/asuLab.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asuLab
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/ssegLab3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ssegLab3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studenID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module studentID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentNumber.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module studentNumber
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Summer/vivadoStuff/ASU/ASU.srcs/sim_1/new/studenID_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module studentID_tb

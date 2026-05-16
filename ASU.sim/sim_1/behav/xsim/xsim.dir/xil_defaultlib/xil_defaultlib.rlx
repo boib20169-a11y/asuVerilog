@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Summer/vivadoStuff/ASU/ASU.sim/sim_1/behav/xsim/glbl.v,1778937467,verilog,,,,glbl,,,,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sim_1/new/asuLab_tb2.v,1778949324,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/ssegLab3.v,,asuLab_tb2,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sim_1/new/studenID_tb.v,1778950900,verilog,,,,studentID_tb,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sim_1/new/studentID2_tb.v,1778943492,verilog,,,,studentID2_tb,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/asuLab.v,1778937467,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/ssegLab3.v,,asuLab,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/ssegLab3.v,1778937467,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studenID.v,,ssegLab3,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studenID.v,1778950578,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentNumber.v,,studentID,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studenNumber_tb.v,1778938612,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentNumber.v,,studentNumber_tb,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentID2.v,1778949927,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentNumber.v,,studentID2,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Summer/vivadoStuff/ASU/ASU.srcs/sources_1/new/studentNumber.v,1778949121,verilog,,C:/Summer/vivadoStuff/ASU/ASU.srcs/sim_1/new/studenID_tb.v,,studentNumber,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
