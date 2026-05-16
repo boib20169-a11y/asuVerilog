@@ -1,7 +1,7 @@
 Vivado Simulator v2025.2
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
-Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot studentID_tb_behav xil_defaultlib.studentID_tb xil_defaultlib.glbl -log elaborate.log 
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot studentNumber_tb_behav xil_defaultlib.studentNumber_tb xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
@@ -9,10 +9,7 @@ Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.asuLab
 Compiling module xil_defaultlib.studentNumber
-Compiling module xil_defaultlib.ssegLab3
-Compiling module xil_defaultlib.studentID
-Compiling module xil_defaultlib.studentID_tb
+Compiling module xil_defaultlib.studentNumber_tb
 Compiling module xil_defaultlib.glbl
-Built simulation snapshot studentID_tb_behav
+Built simulation snapshot studentNumber_tb_behav

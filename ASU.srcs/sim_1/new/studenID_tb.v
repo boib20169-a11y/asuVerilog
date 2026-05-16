@@ -25,7 +25,7 @@ reg Cin;
 reg [3:0] X, Y;
 wire [1:7] leds2, leds;
 
-studentID inst1( .Cin(Cin), .X(X), .Y(Y), .leds2(leds2), .leds(leds));
+studentID inst1( .Cin(Cin), .X(X), .Y(Y), .leds(leds));
 initial begin
 X = 4'd0; //displays 1
 Y = 4'd0;
